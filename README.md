@@ -35,5 +35,3 @@ Whether you're interested in my services, have a project you'd like to discuss, 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sreeshanthh007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
