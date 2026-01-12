@@ -30,7 +30,7 @@ Whether you're interested in my services, have a project you'd like to discuss, 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sreeshanthh007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sreeshanthh007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeshanthh007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeshanthh007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sreeshanthh007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
